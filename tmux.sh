@@ -26,7 +26,7 @@ tmuxb=name
 
 # Function tmux - New Session
 echo -e "${purple}Enter the $name for the tmux ${off}"
-read -p "[*] tmux new -s " name
+read -p "[*] Name Session: " name
 echo -e "${green}Starting.....: Session $name\n ${off}"
 sleep 1s
 tmux new -s $name
