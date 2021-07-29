@@ -5,7 +5,7 @@
  #### El objetivo de este ScRiPt es facilitarte mejor el trabajo en tmux
 ------------------------------------------------------------------------
 ### Como Instalar:
-### tmux.sh
+#### tmux.sh
 
 * Para poder ejecutarlo solo necesitas darle permiso de ejecución
   para ello utilizas el: `chmod +x tmux.sh`
