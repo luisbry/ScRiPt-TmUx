@@ -8,7 +8,8 @@
 
 * Para poder ejecutarlo solo necesitas darle permiso de ejecución
   para ello utilizas el: `chmod +x tmux.sh`
-* Y luego lo ejecutas: `./tmux.sh
+* Y luego lo ejecutas: `./tmux.sh`
+![Cat](https://raw.githubusercontent.com/luisbry/ScRiPt-TmUx/img/shell.png)
 ---------------------------------------------------------------------
 ### Como Utilizar:
 #### install.sh
