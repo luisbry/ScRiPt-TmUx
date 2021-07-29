@@ -12,6 +12,10 @@
 ---------------------------------------------------------------------
 ![Screenshot](/img/shell.png)
 ---------------------------------------------------------------------
+![Screenshot](/img/tmux.png)
+---------------------------------------------------------------------
+![Screenshot](/img/finish.png)
+---------------------------------------------------------------------
 ### Como Utilizar:
 #### install.sh
 * Este script directamente te instala tmux en tu consola y luego te clona
