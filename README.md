@@ -1,4 +1,4 @@
-ScRiPt TmUx
+SCRIPT-TMUX
 
 El objetivo de este ScRiPt es facilitarte mejor el trabajo en tmux
 
