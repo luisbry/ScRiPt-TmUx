@@ -1,5 +1,5 @@
-# ScRiPt-TmUx
-
+![Screenshot](/img/script-tmx.png)
+--------------------------------------------------------------------
 ### Introduccion
 * El objetivo de este ScRiPt es facilitarte mejor el trabajo en tmux
 ---------------------------------------------------------------------
