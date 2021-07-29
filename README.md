@@ -10,7 +10,7 @@
 * Para poder ejecutarlo solo necesitas darle permiso de ejecución
   para ello utilizas el: `chmod +x tmux.sh`
 * Y luego lo ejecutas: `./tmux.sh
- ![Screenshot](shell.png)
+ ![/ScRScRiPt-TmUx/img/shell.png]
 
 ### Como Utilizar:
 #### install.sh
