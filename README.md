@@ -22,4 +22,4 @@
 * Este script directamente te instala tmux en tu consola y luego te clona
   el reporsitorio de On-my-Tmux, directamente para poder utilizarlo.
 
-#### ¡Espero que te guste el Script!
+#### Copyright (c) 2021 - luisbry
