@@ -20,7 +20,7 @@ clear
 
 # Welcome TmUx
 figlet Welcome TmUx | lolcat
-echo -e "${purple}Credits: https://github.com/luisbry${off}"
+echo -e "${cyan}Credits:${off} ${purple}https://github.com/luisbry${off}"
 
 # Variable
 tmuxb=name
