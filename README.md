@@ -31,7 +31,7 @@
 #### install.sh
 * Este script directamente te instala tmux en tu consola y luego te clona
   el reporsitorio de On-my-Tmux, directamente para poder utilizarlo, para
-  ejecutarlo ingrese el siguiente comando: `chmod +x install.sh` y para
-  finalizar `./install.sh`
+  ejecutarlo ingrese el siguiente comando: `chmod +x install.sh` 
+* Y para finalizar `./install.sh`
 
 ### Copyright (c) 2021 - luisbry
