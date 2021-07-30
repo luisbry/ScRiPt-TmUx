@@ -7,8 +7,7 @@
 ### Como Instalar:
 #### tmux.sh
 
-* Para poder ejecutarlo solo necesitas darle permiso de ejecución
-  para ello utilizas el: `chmod +x tmux.sh`
+* Para poder ejecutarlo solo necesitas darle permiso de ejecución: `chmod +x tmux.sh`
 * Y luego lo ejecutas: `./tmux.sh`
 ---------------------------------------------------------------------
 ![Screenshot](/img/shell.png)
