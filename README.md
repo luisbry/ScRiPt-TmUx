@@ -21,7 +21,7 @@
   .bashrc` o `.zshrc` ubica el comando de la ruta en el cual ha clonado el 
   reporsitorio
 #### Ejemplo:
-`alias tmux='/home/[ruta]/Documentos/hacking/ScRiPt-TmUx/tmux.sh'`
+`alias tmx='/home/[ruta]/Documentos/hacking/ScRiPt-TmUx/tmux.sh'`
  * Tambien puede ejecutarlo al iniciar la consola, puede utilizar el siguiente
    comando
 #### Ejemplo:
