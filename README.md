@@ -1,4 +1,4 @@
-# ScRiPt-TmUx (Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+# ScRiPt-TmUx [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 ![Screenshot](/img/script-tmx.png)
 ------------------------------------------------------------------------
 ## Introduccion
