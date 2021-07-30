@@ -1,4 +1,4 @@
-# ScRiPt-TmUx
+# ScRiPt-TmUx (Linux)
 ![Screenshot](/img/script-tmx.png)
 ------------------------------------------------------------------------
 ## Introduccion
