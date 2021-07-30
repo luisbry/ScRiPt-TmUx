@@ -26,7 +26,7 @@
  * Tambien puede ejecutarlo al iniciar la consola, puede utilizar el siguiente
    comando
 #### Ejemplo:
-`sh /home/{ruta}/Documentos/hacking/ScRipT.TmUx/tmux.sh`
+`sh /home/{ruta}/Documentos/hacking/ScRipT-TmUx/tmux.sh`
 
 ### Como Utilizar:
 #### install.sh
