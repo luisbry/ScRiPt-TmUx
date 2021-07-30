@@ -19,7 +19,7 @@
 ---------------------------------------------------------------------
 ### _Opcional:_
 * Puede ejecutarlo como predeterminado para en su terminal ya sea en`
-  bashrc o -zshrc` ubica el comando de la ruta en el cual ha clonado el 
+  .bashrc` o `.zshrc` ubica el comando de la ruta en el cual ha clonado el 
   reporsitorio
 #### Ejemplo:
 `alias tmux='/home/[ruta]/Documentos/hacking/ScRiPt-TmUx/tmux.sh'`
