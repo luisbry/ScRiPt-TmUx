@@ -10,11 +10,11 @@
 * Para poder ejecutarlo solo necesitas darle permiso de ejecución: `chmod +x tmux.sh`
 * Y luego lo ejecutas: `./tmux.sh`
 ---------------------------------------------------------------------
-![Screenshot](/img/shell.png)
+![Screenshot](/img/)
 ---------------------------------------------------------------------
 ![Screenshot](/img/tmux.png)
 ---------------------------------------------------------------------
-![Screenshot](/img/finish.png)
+![Screenshot](/img/)
 ---------------------------------------------------------------------
 ### _Opcional:_
 * Puede ejecutarlo como predeterminado para en su terminal ya sea en`
