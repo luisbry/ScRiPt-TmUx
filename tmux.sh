@@ -19,7 +19,7 @@ sleep 0.7s
 clear
 
 # Welcome TmUx
-figlet Welcome TmUx | lolcat
+figlet Welcome TmUx
 echo -e "${cyan}Credits:${off} ${purple}https://github.com/luisbry${off}"
 
 # Variable
